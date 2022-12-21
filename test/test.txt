@@ -1,1 +1,2 @@
-oy guvna innit
+const str = 'oy guvna innit'
+console.log(str)
