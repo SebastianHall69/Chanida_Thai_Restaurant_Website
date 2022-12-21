@@ -9,3 +9,6 @@ if (check === 'hello world') {
 } else {
   console.log('screwed legs with very tense unhealthy muscles')
 }
+
+console.log('yi lan ma')
+console.log('ftx')
