@@ -1,5 +1,0 @@
-DirectoryIndex /html/index.html
-
-ErrorDocument 403 /html/error.html
-ErrorDocument 404 /html/error.html
-ErrorDocument 500 /html/error.html
